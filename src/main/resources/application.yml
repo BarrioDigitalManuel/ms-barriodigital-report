@@ -8,9 +8,9 @@ spring:
     name: ms-barriodigital-report
 
   datasource:
-    url: jdbc:postgresql://ep-lingering-snow-acxzqbs5-pooler.sa-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+    url: jdbc:postgresql://ep-rough-fire-b61jjuu9-pooler.c-2.sa-east-1.aws.neon.tech/neondb?sslmode=require
     username: neondb_owner
-    password: npg_W4i3tNJpexlf
+    password: npg_thcfsbn0qjA5
     driver-class-name: org.postgresql.Driver
 
   jpa:
